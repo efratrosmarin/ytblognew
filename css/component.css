@@ -21,6 +21,18 @@ html, body, .container, .header {
 	width: 100%;
 }
 
+.header2 {
+	
+	margin: 0 auto;
+height:200px;
+	width: 100%;
+}
+
+.card{
+margin:20px;
+
+}
+
 .bg-img {
 	position: absolute;
 	overflow: hidden;

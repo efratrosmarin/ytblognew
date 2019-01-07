@@ -37,7 +37,20 @@ body {
 }
 
 .demo-6 {
-	background: #f1f1f1;
+	background: #43434b;
+	
+	
+	
+}
+
+.blog{
+
+	background-color:#f1f1f1;
+	float: left;
+
+	padding: 10px;
+	margin: 80px 10px 100px 10px;
+
 }
 
 .demo-1 {
