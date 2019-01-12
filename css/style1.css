@@ -1,3 +1,5 @@
+
+
 .column {
   float: left;
   width: 30%;
@@ -57,6 +59,12 @@
  
  
 }
+
+.item-title{
+  text-align:center;
+
+}
+
 .item:hover .front-end:before{
   opacity: 1;
 }
@@ -248,7 +256,7 @@ html.overflow,body.overflow{
 }
 /* Demo.css  */
 h1,h2,h3,h4,h5,h6{
-  color: #2f2f2f;
+  color: #2c3e50;
   margin:10px 0;
   font-weight: 700;
 }
@@ -294,4 +302,16 @@ body{
   background: rgba(255,255,255,1);
   height: 6px;
 }
+
+
+.part2{
+  color: #ffffff;
+  /* position: relative; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 10em;
+  padding-top:20px;
+  
+  }
+
 /* Demo.css */
