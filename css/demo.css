@@ -145,6 +145,7 @@ a:hover, a:focus {
 	padding: 0 0 1em;
 	position: relative;
 	margin-top: 10px;
+	margin-left:100px;
 }
 
 .codrops-demos a {
@@ -220,6 +221,20 @@ a:hover, a:focus {
 .demo-5 .related {
 	width: 60%;
 	margin-left: 40%;
+}
+
+
+.img-container {
+  float: left;
+  width: 33.3%;
+	padding: 5px;
+	height: 150px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 @media screen and (max-width: 20em) {
