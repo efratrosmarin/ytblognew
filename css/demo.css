@@ -46,10 +46,11 @@ body {
 .blog{
 
 	background-color:#f1f1f1;
-	float: left;
+	float: center;
 
 	padding: 10px;
-	margin: 20px 20px 100px 20px;
+
+	margin: 30px;
 
 }
 
