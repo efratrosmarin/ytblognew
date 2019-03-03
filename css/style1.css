@@ -263,9 +263,12 @@ h1,h2,h3,h4,h5,h6{
 p{
   color: #2f2f2f;
   font-size: 22px;
-  line-height: 26px;
+  line-height: 33px;
   margin:10px 0;
   font-weight: 300;
+  font-family: serif;
+  max-width: 800px;
+  margin: 0 auto .5em auto;
 }
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700&subset=latin,latin-ext);
 *,
